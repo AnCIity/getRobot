@@ -7,3 +7,5 @@ IR论坛搜索分析：
 3.分析获取初始HTML中formhash值  
 4.'https://d.cleverqq.cn/search.php?formhash=' + formhash + '&srchtxt=' + 搜索内容（URL编码(GBK)） + '&searchsubmit=yes&orderby=dateline'  
 5.然后带初始cookies请求  
+  
+早期代码上传
